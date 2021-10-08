@@ -1,7 +1,7 @@
 # Team_Coders_innovathon21
 A Collision Avoidance and warning mechanism which will provide automated braking and steering mechanism 
 
-Sensors used:  
+    Sensors used:  
 
     Two cameras one at front and one at back:
     To get a video feed both at front and back of the Car to assume the best algorithm to apply in that senariuo with all others sensor data.
