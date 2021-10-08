@@ -1,5 +1,5 @@
 # Team_Coders_innovathon21
-A Collision Avoidance and warning mechanism which will provide automated braking and steering mechanism 
+A Collision Avoidance and warning mechanism which will provide automatic braking and steering mechanism 
 
     Sensors used:  
 
