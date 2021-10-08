@@ -1,0 +1,142 @@
+#VRML_SIM R2021b utf8
+WorldInfo {
+  coordinateSystem "NUE"
+}
+Viewpoint {
+  orientation -0.8051528499492974 0.5927892611293588 0.01815984879433478 0.07605961498040353
+  position -17.748018214760606 18.807715592031112 454.7929356662068
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+LincolnMKZ {
+  translation -3.85 0.4 1
+}
+StraightRoadSegment {
+  translation -1 0 0
+  startJunction "start"
+  endJunction "end"
+  width 9
+  numberOfLanes 3
+  numberOfForwardLanes 3
+  lines [
+    RoadLine {
+      width 0.2
+    }
+  ]
+  rightBarrier TRUE
+  leftBarrier TRUE
+  length 500
+  endLine [
+    ""
+  ]
+  castShadows TRUE
+}
+CitroenCZeroSimple {
+  translation -4.14 0.4 427.15
+  name "vehicle(14)"
+}
+MercedesBenzSprinterSimple {
+  translation 2.09 0.4 400.87
+  name "Mercedes-Benz Sprinter(2)"
+}
+Pedestrian {
+  translation 2.06 1.27 319.03
+  name "pedestrian(1)"
+}
+MercedesBenzSprinterSimple {
+  translation -1.27 0.4 278.92
+  name "Mercedes-Benz Sprinter(1)"
+}
+Pedestrian {
+  translation 2.16 1.27 189.22
+}
+RangeRoverSportSVRSimple {
+  translation 2.33 0.4 220.44
+  name "vehicle(11)"
+}
+ScooterSimple {
+  translation 1.9 0.23 124.2
+  name "vehicle(6)"
+}
+ToyotaPrius {
+  translation -1.06 0.4 143.81
+  name "vehicle(7)"
+}
+TeslaModel3 {
+  translation -0.87 0.4 104.73
+  name "vehicle(5)"
+}
+RangeRoverSportSVR {
+  translation -4.46 0.4 88.65
+  name "vehicle(4)"
+}
+MercedesBenzSprinter {
+  translation -1.08 0.4445 69.23
+}
+CitroenCZero {
+  translation 2.22 0.4 48.72
+  name "vehicle(3)"
+}
+BusSimple {
+  translation -4.28 0.55 28.73
+  name "vehicle(1)"
+}
+MotorbikeSimple {
+  translation -1.09 0.25 16.58
+  name "vehicle(2)"
+}
+Truck {
+  translation -4.34 0.5 170.41
+  name "vehicle(8)"
+}
+LincolnMKZSimple {
+  translation 2.25 0.4 26.26
+  name "vehicle(9)"
+}
+CitroenCZeroSimple {
+  translation -1.09 0.4 201.56
+  name "vehicle(10)"
+}
+ToyotaPriusSimple {
+  translation -4.03 0.4 236.56
+  name "vehicle(12)"
+}
+AdvertisingBoard {
+  translation 1.53 1.7 267.11
+}
+OilBarrel {
+  translation -4.79 0.44 300
+}
+OilBarrel {
+  translation -4.05 0.44 300
+  name "oil barrel(1)"
+}
+OilBarrel {
+  translation -3.25 0.44 300
+  name "oil barrel(2)"
+}
+Cabinet {
+  translation -4.17 0 350
+}
+TruckSimple {
+  translation -1.26 0.5 374.21
+  name "vehicle(13)"
+}
+AdvertisingBoard {
+  translation 1.39 1.6 500
+  name "advertising board(1)"
+}
+AdvertisingBoard {
+  translation -2.92 1.63 500
+  name "advertising board(2)"
+}
+Pedestrian {
+  translation 1.95 1.27 479.66
+  name "pedestrian(2)"
+}
+Pedestrian {
+  translation -0.88 1.27 468.47
+  name "pedestrian(3)"
+}
